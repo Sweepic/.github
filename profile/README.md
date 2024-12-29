@@ -1,12 +1,25 @@
-## Hi there 👋
+# Sweepic
+  
+## 🖥️ 프로젝트 소개
+#### - 로컬 갤러리 속 사진을 정리해서 용량은 줄이고, 앱 내에 일상 기록도 함께 할 수 있는 서비스
 
-<!--
 
-**Here are some ideas to get you started:**
+## 🕰️ 개발 기간
+#### - 24.12.28 - 24.2.20
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🧑‍🤝‍🧑 멤버 구성
+#### 💫 PM & 디자인
+| 무/김지형 |
+| :---: |
+|[@mookamja](https://github.com/mookamja) | 
+
+#### 🤖 Android
+| 반찬/김기찬 | 조니/조성은 | 영/서영아 |
+| :---: | :---: | :---: |
+| [@Eouls](https://github.com/Eouls) | [@JONNY](https://github.com/INJERMI) | [@essp0521](https://github.com/essp0521) |
+
+#### 💻 Node.js
+| 🫅지나/박진하 | 낭니/조나은 | 링크/여지호 |  예인/설예인 | 웬티/안성진 | 코디/조희승 | 
+| :---: | :---: | :---: | :---: |:---: |:---: |
+| [@jjiinaaa](https://github.com/jjiinaaa) | [@jonaeunnn](https://github.com/jonaeunnn) | [@GodUser1005](https://github.com/GodUser1005) |[@Socializedistp](https://github.com/Socializedistp) |[@essp0521](https://github.com/essp0521) |[@codie0226](https://github.com/codie0226) |
