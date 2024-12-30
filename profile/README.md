@@ -1,5 +1,6 @@
 # Sweepic
-  
+<img width="1920" alt="스위픽 리드미 이미지" src="https://github.com/user-attachments/assets/f576d154-9139-42f5-aa8d-49d9e9158d9a" />
+
 ## 🖥️ 프로젝트 소개
 #### - 로컬 갤러리 속 사진을 정리해서 용량은 줄이고, 앱 내에 일상 기록도 함께 할 수 있는 서비스
 
