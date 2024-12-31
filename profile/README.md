@@ -23,4 +23,4 @@
 #### 💻 Node.js
 | 🫅지나/박진하 | 낭니/조나은 | 링크/여지호 |  예인/설예인 | 웬티/안성진 | 코디/조희승 | 
 | :---: | :---: | :---: | :---: |:---: |:---: |
-| [@jjiinaaa](https://github.com/jjiinaaa) | [@jonaeunnn](https://github.com/jonaeunnn) | [@GodUser1005](https://github.com/GodUser1005) |[@Socializedistp](https://github.com/Socializedistp) |[@essp0521](https://github.com/essp0521) |[@codie0226](https://github.com/codie0226) |
+| [@jjiinaaa](https://github.com/jjiinaaa) | [@jonaeunnn](https://github.com/jonaeunnn) | [@GodUser1005](https://github.com/GodUser1005) |[@Socializedistp](https://github.com/Socializedistp) |[@asjasj3964](https://github.com/asjasj3964) |[@codie0226](https://github.com/codie0226) |
